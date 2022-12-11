@@ -1,3 +1,8 @@
+//Name :Syed Ali Ahmed                          department: FBAS/BSSE/F-21
+//Roll No :4308                                 university:International Islamic University Islamabad
+                           
+//here we overloads the operator 
+
 #include <iostream>
 #include<windows.h>
 #include<vector>
